@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "psyd-claude-skills",
+  "description": "Claude Code skills for clinical and counseling psychology grad students: APA checks, AI-use disclosures, reading coaching, and study notes from your highlights.",
+  "owner": {
+    "name": "Seabaggin",
+    "url": "https://github.com/Seabaggin"
+  },
+  "plugins": [
+    {
+      "name": "psyd-skills",
+      "description": "Four skills that help you think, check and disclose. They never write your graded work or handle client information.",
+      "source": "./",
+      "category": "education"
+    }
+  ]
+}

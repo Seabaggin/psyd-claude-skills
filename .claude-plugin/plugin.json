@@ -1,0 +1,19 @@
+{
+  "name": "psyd-skills",
+  "version": "0.1.0",
+  "description": "Skills for clinical and counseling psychology grad students: apa7 (report-only APA 7 audit), ai-disclosure (honest AI-use statements), reading-coach (pre-read primer and post-read pressure test), synthesize-reading (short study notes from your own highlights).",
+  "author": {
+    "name": "Seabaggin",
+    "url": "https://github.com/Seabaggin"
+  },
+  "homepage": "https://github.com/Seabaggin/psyd-claude-skills",
+  "repository": "https://github.com/Seabaggin/psyd-claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "psychology",
+    "graduate-school",
+    "apa",
+    "academic-integrity",
+    "study"
+  ]
+}
